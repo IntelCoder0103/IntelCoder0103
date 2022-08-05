@@ -1,11 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IntelCoder0103.IntelCoder0103">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome +👋;This+is+Intel+Coder....;Nice+to+meet+you!&center=true&size=30" alt="Welcom To My Profile">
-  </a>
 </h1>
-
 <br>
 <p align="center">
   Hi, I'm Leonhard Kirchner, Full Stack Web Developer & Computer Engineer & Software Developer from Austria
