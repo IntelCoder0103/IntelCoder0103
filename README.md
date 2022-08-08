@@ -5,7 +5,7 @@
 </h1>
 <br>
 <p align="center">
-  Hi, I'm Leonhard Kirchner, Full Stack Web Developer & Computer Engineer & Software Developer from Austria
+  Hi, Welcome to my profile, Full Stack Web Developer & Computer Engineer & Software Developer
   <br>
   <br>
   🔬 I'm currently working as a freelance web developer
