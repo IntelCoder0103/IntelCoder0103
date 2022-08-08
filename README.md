@@ -10,10 +10,6 @@
   <br>
   🔬 I'm currently working as a freelance web developer
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
   💻 I love writing code and learn anythings about it
   <br>
   📚 I’m currently learning new technologies and features in web development and also blockchain
