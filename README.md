@@ -14,7 +14,7 @@
   <br>
   📚 I’m currently learning new technologies and features in web development and also blockchain
   <br>
-  📫 How to reach me: <a href="mailto: taylor.intel@outlook.com">taylor.intel@outlook.com</a>
+  📫 How to reach me: <a href="mailto: taylor.intel@outlook.com">intel13.dev@gmail.com</a>
 </p>
 
 <hr>
