@@ -7,14 +7,6 @@
 <p align="center">
   Hi, Welcome to my profile, Full Stack Web Developer & Computer Engineer & Software Developer
   <br>
-  <br>
-  🔬 I'm currently working as a freelance web developer
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning new technologies and features in web development and also blockchain
-  <br>
-  📫 How to reach me: <a href="mailto: taylor.intel@outlook.com">intel13.dev@gmail.com</a>
 </p>
 
 <hr>
